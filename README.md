@@ -30,15 +30,15 @@ https://github.com/user-attachments/assets/29a3cc0e-b8f1-4312-9699-ccab3bdd9bc1
 
 ## Challenges 
 
-- This project required us to implement the learnings from the course. So we came up with the idea of automating the search, borrow, and return features of the Habib University Library System using Python. Such system requires the implementation of a database but our Professor instructed us to keep stuff simple and use Pyhton tuple to display that idea.
+- This project required us to implement the learnings from the course. So we came up with the idea of automating the search, borrow, and return features of the Habib University Library System using Python. Such system requires the implementation of a database but our Professor instructed us to keep stuff simple and use Python lists to instead of database.
   
-- This was a terminal based project meaning that we focused on the cocnept implementation rather than the Graphical User Interface(GUI) as the goal of this project was to show strong understanding of the Course learning Outcomes (CLO).
+- This was a terminal based project meaning that we focused on the concept implementation rather than the Graphical User Interface(GUI) as the goal of this project was to show strong understanding of the Course learning Outcomes (CLO).
 
 
 ## Key Learnings from this Project 
 
 
-- As freshman, we learned a great deal about Python basics through this project. Implementing lists for storing the books and making it act like a database prototype. Furthermore, we learned through the project presentations that many mundane tasks in our daily lives can be automated using python. One idea that we appreciated from our peer reviews was that of designing an automation system for sales and transactions designed specifically for each shopkeepers niche.
+- As freshman, we learned a great deal about Python basics through this project. Implementing lists for storing the books and making it act like a database prototype. Furthermore, through the project presentations we realised that many mundane tasks in our daily lives can be automated using python. One such idea that we appreciated from our peer reviews was that of designing an automation system for sales and transactions designed specifically for each shopkeepers niche.
   
 - We learnt the importance of input validation. There can be multiple loopholes that can crash the program and we have to place ourselves in the shoes of the user to figure out the edge cases. This helps with providing a good user experience and increase customer satisfaction.  
 
