@@ -38,9 +38,9 @@ https://github.com/user-attachments/assets/29a3cc0e-b8f1-4312-9699-ccab3bdd9bc1
 ## Key Learnings from this Project 
 
 
-- As freshman, we learned a great deal about Python basics through this project. Implementing lists for storing the books and making it act like a database prototype. Furthermore, we learned through the project presentations that many munadane tasks in our daily lives can be automated using python. One idea that we appreciated from our peer review was that of automating the sales and transactions designed specifically for each shopkeepers niche.
+- As freshman, we learned a great deal about Python basics through this project. Implementing lists for storing the books and making it act like a database prototype. Furthermore, we learned through the project presentations that many mundane tasks in our daily lives can be automated using python. One idea that we appreciated from our peer reviews was that of designing an automation system for sales and transactions designed specifically for each shopkeepers niche.
   
-- We also learnt about how important it is to include input validation. There can be multiple loopholes and we have to place ourselves in the shoes of the user and figure out the edge cases. This helps in providing a good user experience and customer satisfaction.  
+- We learnt the importance of input validation. There can be multiple loopholes that can crash the program and we have to place ourselves in the shoes of the user to figure out the edge cases. This helps with providing a good user experience and increase customer satisfaction.  
 
 
 
